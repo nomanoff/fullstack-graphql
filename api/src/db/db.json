@@ -3,5 +3,30 @@
     "id": "jBWMVGjm50l6LGwepDoty",
     "username": "frontendmaster"
   },
-  "pet": []
+  "pet": [
+    {
+      "id": "1",
+      "type": "cat",
+      "name": "Tiger",
+      "owner": "Adam",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6uIUv5IqYpO-OS0QM39vaN1L72FOzTT6ubSiOOcaEYlA62w3KSD3GFkJ2jGzkqQgL9XE&usqp=CAU",
+      "createdAt": "123123123"
+    },
+    {
+      "id": "2",
+      "type": "cat-1",
+      "name": "Tiger",
+      "owner": "Adam",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6uIUv5IqYpO-OS0QM39vaN1L72FOzTT6ubSiOOcaEYlA62w3KSD3GFkJ2jGzkqQgL9XE&usqp=CAU",
+      "createdAt": "123123123"
+    },
+    {
+      "id": "3",
+      "type": "cat-1",
+      "name": "Tiger",
+      "owner": "Adam",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6uIUv5IqYpO-OS0QM39vaN1L72FOzTT6ubSiOOcaEYlA62w3KSD3GFkJ2jGzkqQgL9XE&usqp=CAU",
+      "createdAt": "123123123"
+    }
+  ]
 }
